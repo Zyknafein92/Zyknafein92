@@ -10,7 +10,9 @@ Mon but ? Devenir un développeur Full Stack compétent et polyvalent même si j
 ## Mon parcours
 
 Après avoir été aide-soignant pendant 4 ans, j'ai décidé de repartir vers passion ludique : l'informatique !
+
 J'ai donc débuté une formation de développeur Java chez Openclassroom à distance afin de pouvoir financer ma formation.
+
 Après l'obtention de mon diplôme, j'ai décidé de poursuivre sur ma lancée et faire une formation de développeur Web pour acquérir des nouvelles compétences et surtout une expérience professionnelle en choisissant l'alternance cette fois pour continuer l'aventure magique de développement !
 
 ## Compétences
